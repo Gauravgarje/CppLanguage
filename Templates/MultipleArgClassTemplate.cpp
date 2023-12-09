@@ -1,3 +1,4 @@
+// we can pass more than one data type as arguments to templates
 #include <iostream>
 using namespace std;
 
