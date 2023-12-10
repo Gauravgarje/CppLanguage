@@ -10,7 +10,7 @@ public:
     int num2 = 84;
 
     // member functions
-    int addition()
+    void addition()
     {
         int result = num1 + num2;
         cout << result << endl;
