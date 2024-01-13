@@ -2,7 +2,7 @@
 
 # DATA TYPES IN CPP
 - C++ supports following data types:
-    1. Primitive or Built-in or Fundamental data type
+    1. **Primitive or Built-in or Fundamental data type**
         - Integer
         - Character
         - Boolean
@@ -10,12 +10,12 @@
         - Double Floating Point
         - Valueless or Void
         - Wide Character
-    2. Derived data type
+    2. **Derived data type**
         - Function
         - Array
         - Pointer
         - Reference
-    3. Abstract or User-defined data type
+    3. **Abstract or User-defined data type**
         - Class
         - Structure
         - Union
