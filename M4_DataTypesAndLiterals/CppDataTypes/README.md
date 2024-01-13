@@ -1,4 +1,4 @@
-- **Data Types** are used to tell the type of data they can store.
+- **Data Types**: are used to tell the type of data they can store.
 
 # DATA TYPES IN CPP
 - C++ supports following data types:
