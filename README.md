@@ -10,8 +10,6 @@ normal text
 
 ~~strikethrough~~
 
-**__bold and nested__ italic**
-
 ***all bold and italic***
 
 <sub>subscript</sub>
